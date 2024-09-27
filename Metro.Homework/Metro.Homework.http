@@ -1,0 +1,10 @@
+@Metro.Homework_HostAddress = http://localhost:5242
+
+GET {{Metro.Homework_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{Metro.Homework_HostAddress}}/weatherforecast
+
+###
